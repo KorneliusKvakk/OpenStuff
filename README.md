@@ -1,1 +1,1 @@
-Dependencies: pygame, raylib, torch, stable baselines3, gym/gymnasium
+Dependencies: raylib, pygame, torch, stable baselines3, gym/gymnasium
